@@ -10,5 +10,5 @@
  </p> 
  <div align="center"> 
    <p align="center"> 
- <img src="https://giphy.com/gifs/boomerangtoons-tom-and-jerry-cat-5dUllWbKVlaqmMTvHb" alt="GIF" width="250" height="250"/> 
+ <img src="https://media3.giphy.com/media/orU4txbRZIp6vJheJ9/giphy.webp?cid=6c09b9529160rseyoqqvu62h3j81h83pslmviaj3fntdzvgk&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g" alt="GIF" width="250" height="250"/> 
  </p> 
